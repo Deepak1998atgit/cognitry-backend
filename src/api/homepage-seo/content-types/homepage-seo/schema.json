@@ -1,0 +1,33 @@
+{
+  "kind": "singleType",
+  "collectionName": "homepage_seos",
+  "info": {
+    "singularName": "homepage-seo",
+    "pluralName": "homepage-seos",
+    "displayName": "HomepageSEO"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Slug": {
+      "type": "uid"
+    },
+    "Title": {
+      "type": "text"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Keywords": {
+      "type": "text"
+    },
+    "Open_Graph_Title": {
+      "type": "text"
+    },
+    "Open_Graph_Description": {
+      "type": "text"
+    }
+  }
+}
